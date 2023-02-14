@@ -5,7 +5,7 @@ february 2023
 
 I'm a beginner in those kind of stuffs so please don't judge me bad :)
 The goal is to exchange Midi Datas between a Stresm Deck Mini and MAX (Cycling 74)
-I uses Midi Control Change (n°2 and n°4)
+It uses Midi Control Change (n°2 and n°4)
 
 2 functions in my case :
 Activate the audio inputs of the soundcard to be able to hear a vinyl turntable connected on it
