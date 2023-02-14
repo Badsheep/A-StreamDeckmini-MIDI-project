@@ -3,7 +3,7 @@
 -created by Badsheep
 february 2023
 
-I'm a beginner in those kinf of stuffs so please don't judge me bad
+I'm a beginner in those kinf of stuffs so please don't judge me bad :)
 The goal is to exchange Midi Datas between a Stresm Deck Mini and MAX (Cycling 74)
 I uses Midi Control Change (n°2 and n°4)
 
